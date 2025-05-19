@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=안녕하세요%F0%9F%A4%97" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=kimmg19's%20Github%F0%9F%A4%97&fontSize=50" alt="header"/>
 </div>
 
 <h3 align="center"><b>🚀 Link To Me 🚀</b></h3>
